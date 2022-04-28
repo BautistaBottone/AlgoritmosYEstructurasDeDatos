@@ -2,7 +2,7 @@ AlgoritmosYEstructurasDeDatos
   
 **Repositorio individual**  
   
--**Asignatura: Algoritmos y Estructuras de Datos**  
+<li>**Asignatura: Algoritmos y Estructuras de Datos**<li>
   
 -**Curso: K1051**  
  
