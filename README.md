@@ -1,6 +1,6 @@
 #AlgoritmosYEstructurasDeDatos  
   
-###**Repositorio individual**  
+**###Repositorio individual**  
   
 ###-Asignatura: Algoritmos y Estructuras de Datos  
   
