@@ -1,4 +1,4 @@
-#**#AlgoritmosYEstructurasDeDatos#**# 
+**AlgoritmosYEstructurasDeDatos** 
   
     
 **Repositorio individual**  
