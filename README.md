@@ -1,15 +1,15 @@
 #AlgoritmosYEstructurasDeDatos  
   
-**Repositorio individual**  
+###**Repositorio individual**  
   
--Asignatura: Algoritmos y Estructuras de Datos  
+###-Asignatura: Algoritmos y Estructuras de Datos  
   
--Curso: K1051  
+###-Curso: K1051  
  
--Año de cursada, y cuatrimestre si corresponde: Ano De Cursada 2022  
+###-Año en curso: 2022  
   
--Legajo: 210051-4  
+###-Legajo: 210051-4  
   
--Apellido: Bottone Pagella  
+###-Apellido: Bottone Pagella  
   
--Nombre: Bautista Joaquin  
+###-Nombre: Bautista Joaquin  
